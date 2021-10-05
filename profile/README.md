@@ -4,11 +4,19 @@
 
 ## What is a Campus Expert?
 
-People learn better when they can learn with a community of likeminded peers. A Campus Expert is a student trained to build a strong technical community, on campus. As well as training, Campus Experts have access to resources and support from GitHub, such as swag, sponsorship, and the opportunity to attend events like GitHub Universe.
+People learn better when they can learn with a community of likeminded peers. Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects. A Campus Expert is trained to build a strong technical community, on campus. As well as training, Campus Experts have access to resources and support from GitHub, such as swag, sponsorship, and the opportunity to attend events like GitHub Universe.
 
 ## How do I become a Campus Expert?
 
-To become a Campus Expert, you first have to complete the training. To join the training, you need to be a verified student, over the age of 18. To verify as a student, sign up for the [GitHub Student Developer Pack](https://education.github.com/pack). Once you are verified as a student, you can join the [Campus Expert training](https://education.github.com/experts) ✨.
+To become a Campus Expert, you first have to complete the training. To join the training, you need to:
+- Be at least 18 years of age.
+- Validate your student status through the [GitHub Student Developer Pack](https://education.github.com/pack).
+- Be enrolled in a post-secondary formal education institution.
+- Have more than one year left as a student before graduating.
+- Be a GitHub user for at least six months.
+- Not be enrolled in the GitHub Campus Advisors Program.
+
+Applications to the program open every August and February and they remain open for a month. If selected to become a Campus Expert you can join the [Campus Expert training](https://education.github.com/experts) ✨.
 
 ## What benefits do Campus Experts get from GitHub?
 
