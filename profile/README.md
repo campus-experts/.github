@@ -20,6 +20,6 @@ Applications to the program open every August and February and they remain open 
 ## Other Programs
 - We **support students to become content creators** on [📺 GitHub Campus TV](https://www.twitch.tv/githubeducation/).
 - Field Experts organize [☂️ GitHub Field Days](https://githubfieldday.com/), **regional community events for leaders to share best practices** and collaborate in future events.
-- Learn about future events, find content from other students and reach your local experts on [🌎 GitHub Global Campus](https://education.github.com/globalcampus/student).
+- Learn about future events, find content from other students and reach your local expert on [🌎 GitHub Global Campus](https://education.github.com/globalcampus/student).
 
 ### Find more about the program on the [GitHub Education website](https://education.github.com/experts)!
