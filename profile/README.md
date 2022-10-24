@@ -8,7 +8,7 @@ People learn better when they can learn with a community of likeminded peers. Ca
 ## How do I become a Campus Expert?
 
 To become a Campus Expert, you first have to complete the training. To join the training, you need to:
-- Be at least 18 years of age.
+- Be at least 18+ years of age.
 - Validate your student status through the [GitHub Student Developer Pack](https://education.github.com/pack).
 - Be enrolled in a post-secondary formal education institution.
 - Have more than one year left as a student before graduating.
