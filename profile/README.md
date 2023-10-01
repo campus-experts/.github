@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/1790822/28984617-e789fa78-792c-11e7-9c9f-17c23a70e6cc.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/1790822/28984617-e789fa78-792c-11e7-9c9f-17c23a70e6cc.png#gh-light-mode-only" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/10102616/271837775-c15f2f8b-10b9-4eb9-9a75-52ef4820e7c1.png#gh-dark-mode-only" alt="drawing" width="500"/>
 <a href="https://github.com/blog/category/education"><img src="https://img.shields.io/badge/GitHub Blog%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a> <a href="https://twitter.com/githubeducation"><img src="https://img.shields.io/badge/GitHubEducation%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a> <a href="https://www.twitch.tv/githubeducation/"><img src="https://img.shields.io/twitch/status/GitHubEducation?color=blueviolet&logo=twitch&logoColor=white&style=for-the-badge"></a> <a href="https://www.facebook.com/githubeducation/"><img src="https://img.shields.io/badge/GitHubEducation%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white&color=0573e7"></a>
 
 # Welcome to GitHub Campus Experts
