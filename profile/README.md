@@ -24,3 +24,6 @@ Applications to the program open every August and February and they remain open 
 - Learn about future events, find content from other students and reach your local expert on [🌎 GitHub Global Campus](https://education.github.com/globalcampus/student).
 
 ### Find more about the program on the [GitHub Education website](https://education.github.com/experts)!
+
+## Other
+- Campus Experts [Code of Conduct](../CODE_OF_CONDUCT.md) and enforcement guidelines
