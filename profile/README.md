@@ -26,4 +26,4 @@ Applications to the program open every August and February and they remain open 
 ### Find more about the program on the [GitHub Education website](https://education.github.com/experts)!
 
 ## Other
-- Campus Experts [Code of Conduct](../CODE_OF_CONDUCT.md) and enforcement guidelines
+- Campus Experts [Code of Conduct](https://github.com/campus-experts/.github/blob/master/CODE_OF_CONDUCT.md) and enforcement guidelines
