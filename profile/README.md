@@ -8,7 +8,7 @@ People learn better when they can learn with a community of likeminded peers. Ca
 
 ## How do I become a Campus Expert?
 
-To become a Campus Expert, you first have to complete the training. To join the training, you need to:
+To become a Campus Expert, you must meet the following requirements:
 - Be at least 18+ years of age.
 - Validate your student status through the [GitHub Student Developer Pack](https://education.github.com/pack).
 - Be enrolled in a post-secondary formal education institution.
@@ -16,12 +16,8 @@ To become a Campus Expert, you first have to complete the training. To join the 
 - Be a GitHub user for at least six months.
 - Not be enrolled in the GitHub Campus Advisors Program.
 
-Applications to the program open every August and February and they remain open for a month. If selected to become a Campus Expert, you'll start the [Campus Expert training](https://education.github.com/experts) ✨.
+Applications to the program open every July for a month. If selected to become a CampusExpert, you'll start the Campus Expert training. Upon completiong of training, you're officially in. ✨.
 
-## Other Programs
-- We **support students to become content creators** on [📺 GitHub Campus TV](https://www.twitch.tv/githubeducation/).
-- Field Experts organize [☂️ GitHub Field Days](https://githubfieldday.com/), **regional community events for leaders to share best practices** and collaborate in future events.
-- Learn about future events, find content from other students and reach your local expert on [🌎 GitHub Global Campus](https://education.github.com/globalcampus/student).
 
 ### Find more about the program on the [GitHub Education website](https://education.github.com/experts)!
 
