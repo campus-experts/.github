@@ -16,7 +16,7 @@ To become a Campus Expert, you must meet the following requirements:
 - Be a GitHub user for at least six months.
 - Not be enrolled in the GitHub Campus Advisors Program.
 
-Applications to the program open every July for a month. If selected to become a CampusExpert, you'll start the Campus Expert training. Upon completiong of training, you're officially in. ✨.
+Applications to the program open every July for a month. If selected to become a Campus Expert, you'll start the Campus Expert training. Upon completion of training, you're officially in. ✨.
 
 
 ### Find more about the program on the [GitHub Education website](https://education.github.com/experts)!
